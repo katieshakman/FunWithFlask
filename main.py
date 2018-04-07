@@ -1,4 +1,4 @@
-
+# Based on the tutorial from https://www.youtube.com/watch?v=27Fjrlx4s-o
 from flask import Flask
 
 app = Flask(__name__) # root path
